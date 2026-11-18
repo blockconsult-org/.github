@@ -1,4 +1,9 @@
-<img src="icon.png" width="64" alt="Block Consult" />
+<a href="https://www.blockconsult.org">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blockconsult-org/.github/main/profile/blockconsult-logo.png">
+    <img src="https://raw.githubusercontent.com/blockconsult-org/.github/main/profile/blockconsult-logo-light.png" alt="Block Consult" width="280">
+  </picture>
+</a>
 
 # Practical tools for AI and Web3 decisions
 
